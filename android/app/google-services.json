@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633201173529",
+    "project_id": "to-do-task-luminar",
+    "storage_bucket": "to-do-task-luminar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633201173529:android:eeaf6b31a51feb7b687688",
+        "android_client_info": {
+          "package_name": "com.luminar.a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqfcXcqVCfEIgHAORYqjcWJMTYxrS-Omk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
