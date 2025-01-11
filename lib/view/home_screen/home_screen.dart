@@ -9,9 +9,13 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
   final List<Map<String, dynamic>> Tasks = [];
 
-  void _addTask(String title) {
+  void _addTask(
+    String tittle,
+  ) {
     setState(() {
-      HomeScreenController.addData(tittle: title.toString(), completed: false);
+      HomeScreenController.addData(
+        tittle: tittle,
+      );
     });
   }
 
